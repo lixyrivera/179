@@ -1,0 +1,18 @@
+Research Question
+The main research question is, “How persuasive is ai?” "Can ai persuade someone to stop smoking/vaping?"
+
+Description of Data 
+Data 1   Article selection:
+Select an article that is against vaping and talk about its damages, as well as the benefits to quitting. 
+Take the same article to summarize into a main thesis, and ask AI to generate a persuasive article against vaping.
+
+Data 2   survey:
+Conduct my own survey, asking others to read both articles and pretend to be current smokers/vapers, putting aside their personal preference, solely based on reading, to decide which is more persuasive in their opinion.
+Observations are whether a respondent agrees or disagrees with the persuasive article they are presented with.
+Observation two is which they believe to be the AI generated article
+
+Description of Methods 
+First, sourced original persuasive articles from a reputable source. Second, use a language model to create AI-generated articles on the topic of smoking and why its bad. Third, deployed a survey experiment using, where respondents are shown the articles against vaping, taking the measured set of responses. Fourth, conduct a data sensitivity analysis on the results.
+
+Method   OpenAI & Sensitivity Analysis:
+Using the results of the respondents decision to stop or not stop smoking, conduct a sensitivity analysis to compare the results with the second observation of which they believed to be true.
